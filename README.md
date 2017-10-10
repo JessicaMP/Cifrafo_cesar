@@ -1,4 +1,7 @@
-﻿# CIFRADO CESAR
+# **CIFRADO CESAR**
+## Introducción
+El siguiente programa te ayuda a cifra un mensaje para que con otros que conoscan de el programan puedan entender tu mensaje cifrado por medio del descifrado que te permite descifrar el mensaje.
+
 ### Pseudocodigo
 
 
@@ -29,6 +32,13 @@
 	FinPara
 	Mostrar en pantalla output
   FinAlgoritmo
+
+##### Diagrama de flujo
+<https://ibb.co/kr3ZwG>
+
+##### Ejemplo:
+<https://ibb.co/hp7zVb>
+
 ##### Algoritmo Decipher
 
 	Definir output1,i Como Entero
@@ -44,3 +54,12 @@
 	FinPara
 	Mostrar en pantalla output1
   FinAlgoritmo
+
+##### Diagra de flujo
+<https://ibb.co/mYFa3w>
+
+##### Ejemplo:
+<https://ibb.co/fnSzVb>
+
+web site : <file:///C:/Users/Jessica%20Manturano/Desktop/Jessica/Cifradocesar/index.html>
+E- mail : <jessica95.mp@gmail.com>
