@@ -48,7 +48,7 @@ function decipher() {
       output1 += ' ';
       //De no tener espacios la palabra pasa tal y como esta, despues por medio de estas dos metodos del codigo ASCII se reemplaza la letra cifrada por las decifradas
     } else {
-      output1 += String.fromCharCode((input2.charCodeAt(i) - 65 + 19) % 26 + 65);
+      output1 += String.fromCharCode((input2.charCodeAt(i) + 65 - 33) % 26 + 65);
     }
   }
   //Mostramos en pantalla la frase descifrada
